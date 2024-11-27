@@ -2,6 +2,7 @@
 # Front End
 
 A simple table based on the provided API. You can download the JSON, CSV, and print the API response in the console.
+ReactJS was used in the development of the front end.
 
 
 ## Dependencies
