@@ -25,12 +25,12 @@ The API call is customized, so run the backend server first. Make sure to change
 
 ### In App.js line 9
 
-```http
+```https
  http://localhost:3000/activities/fetch?count=15
 ```
 
 Here is the link for the BE server (Ruby on Rails)
 
-```http
+```https
 https://github.com/lbmartinez2/be_fc_activities
 ```
